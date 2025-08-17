@@ -20,3 +20,7 @@ pyarrow
 tabulate
 html5lib
 duckdb
+pytesseract
+playwright
+
+
